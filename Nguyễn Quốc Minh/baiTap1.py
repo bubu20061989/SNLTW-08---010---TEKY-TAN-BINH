@@ -1,4 +1,4 @@
-diennangtieuthu= float(input("hãy nhập số điện năng tiêu thụ: "))
-sotien1kgw= float(input("hãy nhập số tiền mỗi kgw tiêu thụ: "))
+dienNangTieuThu= float(input("Hãy nhập số điện năng tiêu thụ: "))
+soTien1kgw= float(input("Hãy nhập số tiền mỗi kgw tiêu thụ: "))
 
-print("số tiền phải trả là:",diennangtieuthu*sotien1kgw)
+print("Số tiền phải trả là:",dienNangTieuThu*soTien1kgw)
