@@ -1,0 +1,7 @@
+print(' Bạn hãy nhập 5 số để tính ra trung bình của 5 số đó')
+soThuNhat=float(input('Hãy nhập số thứ nhất'))
+soThuHai=float(input('Hãy nhập số thứ hai'))
+soThuBa=float(input('Hãy nhập số thứ ba'))
+soThuBon=float(input('Hãy nhập số thứ bốn'))
+soThuNam=float(input('Hãy nhập số thứ năm'))
+print(' Trung bình của 5 số là',(soThuNhat+soThuHai+soThuBa+soThuBon+soThuNam)/5)
