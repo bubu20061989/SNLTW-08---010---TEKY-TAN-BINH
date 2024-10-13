@@ -18,3 +18,12 @@
 # // Chia lấy số nguyên
 10//4  = 2
 15//2 =7
+
+# Toán tử logic and - or
+# T and T = T
+# T and F = F
+# F and F = F
+
+# T or F = T
+# F or F = F
+# T or T = T

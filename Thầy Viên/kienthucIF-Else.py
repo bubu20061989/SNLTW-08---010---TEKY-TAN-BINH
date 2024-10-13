@@ -2,6 +2,8 @@
 a = int(input('Hãy nhập số a'))
 if a < 0:
     print("a là số âm")
+elif a == 0:
+    print("a là số 0")
 else:
     print("a là số dương")
 
