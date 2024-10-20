@@ -3,4 +3,10 @@
 # tính điểm trung bình 
 # ví du
 
-# diemToan = 10 thì thông báo : Điểm toán sai vui lòng nhâp lại
+# diemToan = 10 thì thông báo : Điểm toán sai vui lòng nhâp lại 
+
+
+
+
+
+#-------------------------------------------------------------
