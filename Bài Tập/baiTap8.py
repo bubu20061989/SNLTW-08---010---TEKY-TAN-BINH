@@ -4,4 +4,4 @@
 # VD kiểm tra chẵn lẽ
 a = 2
 if a % 2 != 0:
-    print("a là số chẵn")
+    print("a là số lẻ")
